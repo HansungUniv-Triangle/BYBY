@@ -36,7 +36,7 @@ https://play.google.com/store/apps/details?id=com.Triangle.BYBY
 
 ## 게임 화면
 
-![images](Image\images.png)
+<img src="Image\images.png" />
 
 ## 판넬
 
